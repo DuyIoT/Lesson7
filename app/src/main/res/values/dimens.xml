@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nameContact">25sp</dimen>
+    <dimen name="phoneNumber">20sp</dimen>
+    <dimen name="dm5dp">5dp</dimen>
+    <dimen name="dm0dp">0dp</dimen>
+</resources>

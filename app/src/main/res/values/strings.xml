@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Lesson7</string>
+    <string name="insert">Thêm danh bạ</string>
+    <string name="update">Chỉnh sửa danh bạ</string>
+    <string name="name">Nhập tên danh bạ</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="save">Đồng ý</string>
+    <string name="cancle">Hủy</string>
+    <string name="delete">Xóa</string>
 </resources>
